@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+#  Secured To Do App
 
-First, run the development server:
+A modern full-stack Todo App built with Next.js that enables users to securely manage their daily tasks. It includes complete authentication features such as user registration, login, logout, and email verification. Designed for productivity with a responsive UI and real-world features like protected routes and server-side validation.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Create, delete and click to tick todos
+- User authentication (Signup, Login, Logout)
+- Responsive design for computer only
+- You will get verification link in your Email after registration. Click or paste that link in new tab to verify.
+- Protected pages for authenticated users only
+- MongoDB Atlas for Users data storage and task stores in your local web storage.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Here's a live project link of Vercel:
 
-## Deploy on Vercel
+Sorry! Some deployment issue in Vercel, you can see screenshot in my LinkedIn post.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+But you can try my project in your localhost!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Tech Stack
+
+Full Stack Next.js with Typescript and Tailwind CSS and some external npm packages for authentication.
+
+
+
+## Screenshots
+
+If you want to see Screenshots of the project then here's my LinkedIn post link:
+
+https://www.linkedin.com/posts/tushar-rana-5a6787273_vercel-frontend-backend-activity-7335216831323901953-RRy0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELbPo4BV1FhoHLivrkBoZ7wzNl_gS5vG9w
+
+
+
+## Installation
+
+Install my-project in your code editor:
+
+git clone https://github.com/codeTushar679/nextauthority.git
+
+To run the project use "npm run dev" 
+
+
+
+## Usage
+
+- Personal productivity tool
+- Practice full-stack authentication
+- Real-world authentication flow for websites
+- Template for building To Do App related websites.
+
+
+
+## Author
+
+Here's my LinkedIn profile link:
+
+https://www.linkedin.com/in/tushar-rana-5a6787273/
