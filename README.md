@@ -9,7 +9,7 @@ A modern full-stack Todo App built with Next.js that enables users to securely m
 
 - Create, delete and click to tick todos
 - User authentication (Signup, Login, Logout)
-- Responsive design for computer only
+- Responsive design for computer and mobile
 - You will get verification link in your Email after registration. Click or paste that link in new tab to verify.
 - Protected pages for authenticated users only
 - MongoDB Atlas for Users data storage and task stores in your local web storage.
