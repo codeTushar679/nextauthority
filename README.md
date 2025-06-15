@@ -27,7 +27,7 @@ But you can try my project in your localhost!
 
 ## Tech Stack
 
-Full Stack Next.js with Typescript and Tailwind CSS and some external npm packages for authentication.
+Full Stack Next.js with Typescript, MongoDB, Tailwind CSS and some external npm packages for authentication.
 
 
 
